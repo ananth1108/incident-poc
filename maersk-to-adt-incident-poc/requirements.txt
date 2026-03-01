@@ -1,0 +1,17 @@
+fastapi
+click
+uvicorn
+sqlalchemy
+pydantic
+requests
+pdfplumber
+pytesseract
+Pillow
+pdf2image
+PyYAML
+python-multipart
+gradio==5.42.0
+openai
+psycopg2-binary
+pydantic-settings
+pytest
